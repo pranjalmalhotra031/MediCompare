@@ -1,0 +1,5 @@
+# Copy this file to "dataset-info.properties" (same folder) and fill it in.
+# Kaggle CSV files contain no version or date, so the app can only show one
+# if you record it here from each dataset's Kaggle page.
+catalog.version=Version ?, downloaded YYYY-MM-DD
+usage.version=Version ?, downloaded YYYY-MM-DD
